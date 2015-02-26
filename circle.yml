@@ -1,0 +1,11 @@
+machine:
+  services:
+    - docker
+  ruby:
+    version: 2.2.0
+  timezone:
+    Asia/Tokyo
+test:
+  override:
+    - bundle install
+    - bundle exec kitchen test -l debug --destroy=never

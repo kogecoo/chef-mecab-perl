@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'berkshelf', '~> 3.0.1'
+gem 'berkshelf'
 gem 'serverspec', '~> 0.15'
 
 group :integration do
