@@ -1,5 +1,8 @@
 mecab-perl Chef Cookbook
 =======================
+
+[![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-perl.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-perl)
+
 Installs an official perl binding for mecab
 
 Platforms
