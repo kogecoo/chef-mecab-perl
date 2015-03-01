@@ -8,5 +8,6 @@ version          '0.1.0'
 
 depends 'mecab'
 
-supports 'ubuntu'
+supports 'centos'
 supports 'debian'
+supports 'ubuntu'
