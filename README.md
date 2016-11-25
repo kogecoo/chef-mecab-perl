@@ -3,6 +3,8 @@ mecab-perl Chef Cookbook
 
 [![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-perl.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-perl)
 
+## This recipe is DEPRECATED. It is merged to [chef-mecab](https://circleci.com/gh/kogecoo/chef-mecab) cookbook.
+
 Installs an official perl binding for mecab
 
 Platforms
